@@ -1,6 +1,6 @@
 ### Simple Node.js logging exercise by using Axios callback for output JSON format data
 
-## Instructions for program start
+### Instructions for program start
 
 npm start
 
